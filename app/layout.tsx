@@ -1,3 +1,4 @@
+import './globals.css';
 import React from 'react';
 import { BookOpen, ArrowRight, Users, FileText, Award, Gamepad2, LayoutDashboard } from 'lucide-react';
 
